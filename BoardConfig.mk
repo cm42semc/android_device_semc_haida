@@ -5,7 +5,7 @@
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/semc/haida/config
 
 TARGET_KERNEL_SOURCE := kernel/semc/msm7x30
-TARGET_KERNEL_CONFIG := cyanogen_haida_defconfig
+TARGET_KERNEL_CONFIG := pac_haida_defconfig
 TARGET_USES_OLD_TOOLCHAIN := true
 #TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-linaro-4.7
 #TARGET_PREBUILT_KERNEL := device/semc/haida/prebuilt/kernel
