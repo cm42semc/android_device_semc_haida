@@ -119,13 +119,3 @@ lib/egl/libGLESv2S3D_adreno200.so
 # Touchscreen firmware
 etc/firmware/touch_hallon_hitachi.hex
 etc/firmware/touch_hallon_sony.hex
-
-#ANT+
-lib/libanthal.so
-etc/permissions/com.dsi.ant.antradio_library.xml
-etc/permissions/com.sonyericsson.suquashi.xml
-app/antstatenotifer.apk
-app/AntHalService.apk
-app/antradioservice.apk
-framework/com.dsi.ant.antradio_library.jar
-framework/com.sonyericsson.suquashi.jar
